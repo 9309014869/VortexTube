@@ -1,1 +1,1 @@
-export const BASE_URL ="https://vortextube-backendmyfirst.onrender.com";
+export const BASE_URL ="https://vortextube-backend.onrender.com";
